@@ -1,0 +1,15 @@
+.DS_Store
+
+# Audio files
+*.aif
+*.aiff
+*.wav
+*.mp3
+*.flac
+*.m4a
+
+# Ableton Live project files (optional - if you don't want to track them)
+*.als
+
+# Sample directories
+Samples/
